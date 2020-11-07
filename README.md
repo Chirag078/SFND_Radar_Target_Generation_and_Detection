@@ -104,7 +104,7 @@ plot(sig_fft1);
 axis ([0 200 0 1]);
 ```
 * Simulation Result
-![GitHub Logo](https://github.com/abdushata/SFND_Radar_Target_Generation_and_Detection/blob/master/Range_from_First_FFT.png)
+![Image](https://github.com/Chirag078/SFND_Radar_Target_Generation_and_Detection/blob/master/Figure1.jpg?raw=true)
 
 ## **6. Range Doppler Response**
 * The 2D FFT implementation is already provided here.
