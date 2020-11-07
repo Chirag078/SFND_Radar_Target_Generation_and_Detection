@@ -135,7 +135,7 @@ figure ('Name','Range and Speed From FFT2')
 surf(doppler_axis,range_axis,RDM);
 ```
 * Simulation Result
-![GitHub Logo](https://github.com/abdushata/SFND_Radar_Target_Generation_and_Detection/blob/master/Range_and_Speed_From_FFT2.png)
+![Image](https://github.com/Chirag078/SFND_Radar_Target_Generation_and_Detection/blob/master/Figure2.jpg?raw=true)
 
 ## **7. CFAR Implementation**
 * Slide Window through the complete Range Doppler Map
@@ -199,4 +199,4 @@ colorbar;
 
 * Simulation Result
 
-![GitHub Logo](https://github.com/abdushata/SFND_Radar_Target_Generation_and_Detection/blob/master/CA-CFAR_Filtered_RDM.png)
+![Image](https://github.com/Chirag078/SFND_Radar_Target_Generation_and_Detection/blob/master/Figure3.jpg?raw=true)
